@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.a8b2a2d0.css",
-    "main.js": "/MyWebsite/static/js/main.efbe31d1.js",
+    "main.css": "/MyWebsite/static/css/main.49d928bb.css",
+    "main.js": "/MyWebsite/static/js/main.59f95712.js",
     "static/js/453.195b869a.chunk.js": "/MyWebsite/static/js/453.195b869a.chunk.js",
     "static/media/IMG_7727.jpg": "/MyWebsite/static/media/IMG_7727.85e5206273c0201bf4e9.jpg",
     "static/media/galaxybackground.jpg": "/MyWebsite/static/media/galaxybackground.6af044c9fa4f50e01471.jpg",
@@ -17,12 +17,12 @@
     "static/media/nav-icon1.svg": "/MyWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/gmail-icon.svg": "/MyWebsite/static/media/gmail-icon.21866e1084076722d216cbe1acf2fd8c.svg",
     "static/media/nav-icon2.svg": "/MyWebsite/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.a8b2a2d0.css.map": "/MyWebsite/static/css/main.a8b2a2d0.css.map",
-    "main.efbe31d1.js.map": "/MyWebsite/static/js/main.efbe31d1.js.map",
+    "main.49d928bb.css.map": "/MyWebsite/static/css/main.49d928bb.css.map",
+    "main.59f95712.js.map": "/MyWebsite/static/js/main.59f95712.js.map",
     "453.195b869a.chunk.js.map": "/MyWebsite/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8b2a2d0.css",
-    "static/js/main.efbe31d1.js"
+    "static/css/main.49d928bb.css",
+    "static/js/main.59f95712.js"
   ]
 }

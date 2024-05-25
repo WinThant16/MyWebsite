@@ -1,28 +1,36 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.49d928bb.css",
-    "main.js": "/MyWebsite/static/js/main.59f95712.js",
+    "main.css": "/MyWebsite/static/css/main.1e9d2cc7.css",
+    "main.js": "/MyWebsite/static/js/main.ffe08193.js",
     "static/js/453.195b869a.chunk.js": "/MyWebsite/static/js/453.195b869a.chunk.js",
     "static/media/IMG_7727.jpg": "/MyWebsite/static/media/IMG_7727.85e5206273c0201bf4e9.jpg",
     "static/media/galaxybackground.jpg": "/MyWebsite/static/media/galaxybackground.6af044c9fa4f50e01471.jpg",
+    "static/media/color-sharp.png": "/MyWebsite/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/MyWebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/CentraNo2-Bold.ttf": "/MyWebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/MyWebsite/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/MyWebsite/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/AlexBrush-Regular.ttf": "/MyWebsite/static/media/AlexBrush-Regular.b50947ef756f43126a52.ttf",
     "static/media/EvilEmpire.otf": "/MyWebsite/static/media/EvilEmpire.e3f442056830a75d62a8.otf",
+    "static/media/revicons.eot": "/MyWebsite/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MyWebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/MyWebsite/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/MyWebsite/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/githubicon.svg": "/MyWebsite/static/media/githubicon.e6a5dc482d4d9721eadbf21a2da9c707.svg",
+    "static/media/meter1.svg": "/MyWebsite/static/media/meter1.907672834d363668df77dfbde65a7eeb.svg",
+    "static/media/meter3.svg": "/MyWebsite/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/logo.svg": "/MyWebsite/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "static/media/nav-icon3.svg": "/MyWebsite/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/MyWebsite/index.html",
     "static/media/nav-icon1.svg": "/MyWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/gmail-icon.svg": "/MyWebsite/static/media/gmail-icon.21866e1084076722d216cbe1acf2fd8c.svg",
     "static/media/nav-icon2.svg": "/MyWebsite/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.49d928bb.css.map": "/MyWebsite/static/css/main.49d928bb.css.map",
-    "main.59f95712.js.map": "/MyWebsite/static/js/main.59f95712.js.map",
+    "main.1e9d2cc7.css.map": "/MyWebsite/static/css/main.1e9d2cc7.css.map",
+    "main.ffe08193.js.map": "/MyWebsite/static/js/main.ffe08193.js.map",
     "453.195b869a.chunk.js.map": "/MyWebsite/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49d928bb.css",
-    "static/js/main.59f95712.js"
+    "static/css/main.1e9d2cc7.css",
+    "static/js/main.ffe08193.js"
   ]
 }

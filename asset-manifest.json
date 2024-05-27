@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.032d939c.css",
-    "main.js": "/MyWebsite/static/js/main.0b54a8af.js",
+    "main.css": "/MyWebsite/static/css/main.cd7e7ae6.css",
+    "main.js": "/MyWebsite/static/js/main.3c99d761.js",
     "static/js/453.195b869a.chunk.js": "/MyWebsite/static/js/453.195b869a.chunk.js",
-    "static/media/land.png": "/MyWebsite/static/media/land.79806b8258818cf4d527.png",
-    "static/media/cat.gif": "/MyWebsite/static/media/cat.8eb5dab711f735737f96.gif",
     "static/media/IMG_7727.jpg": "/MyWebsite/static/media/IMG_7727.85e5206273c0201bf4e9.jpg",
-    "static/media/galaxybackground.jpg": "/MyWebsite/static/media/galaxybackground.6af044c9fa4f50e01471.jpg",
     "static/media/color-sharp.png": "/MyWebsite/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/MyWebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/moon.png": "/MyWebsite/static/media/moon.b576865263f58b67ea33.png",
+    "static/media/shortgalaxybackground.jpg": "/MyWebsite/static/media/shortgalaxybackground.f54d1d6102c1833148dd.jpg",
+    "static/media/movie.webp": "/MyWebsite/static/media/movie.e3a48103fd08176593c2.webp",
+    "static/media/stock.webp": "/MyWebsite/static/media/stock.c830697bd55959db8116.webp",
+    "static/media/crime.webp": "/MyWebsite/static/media/crime.af48d708800734ceb2d4.webp",
     "static/media/CentraNo2-Bold.ttf": "/MyWebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/MyWebsite/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/MyWebsite/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -28,12 +28,12 @@
     "static/media/nav-icon1.svg": "/MyWebsite/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/gmail-icon.svg": "/MyWebsite/static/media/gmail-icon.21866e1084076722d216cbe1acf2fd8c.svg",
     "static/media/nav-icon2.svg": "/MyWebsite/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.032d939c.css.map": "/MyWebsite/static/css/main.032d939c.css.map",
-    "main.0b54a8af.js.map": "/MyWebsite/static/js/main.0b54a8af.js.map",
+    "main.cd7e7ae6.css.map": "/MyWebsite/static/css/main.cd7e7ae6.css.map",
+    "main.3c99d761.js.map": "/MyWebsite/static/js/main.3c99d761.js.map",
     "453.195b869a.chunk.js.map": "/MyWebsite/static/js/453.195b869a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.032d939c.css",
-    "static/js/main.0b54a8af.js"
+    "static/css/main.cd7e7ae6.css",
+    "static/js/main.3c99d761.js"
   ]
 }

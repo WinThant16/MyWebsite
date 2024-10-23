@@ -7,8 +7,7 @@ import linkedinIcon from '../assets/img/nav-icon1.svg';
 // import instagramIcon from '../assets/img/nav-icon3.svg';
 import githubIcon from '../assets/img/githubicon.svg';
 import gmailIcon from '../assets/img/gmail-icon.svg';
-import Resume from '../Resume 2024.pdf';
-
+import Resume from '../Resume 1072024.pdf';
 
 export const NavBar = () => {
 	// default, set to home

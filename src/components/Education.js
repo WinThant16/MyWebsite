@@ -17,7 +17,7 @@ export const Education = () => {
               <strong>Bachelor of Science in Computer Science (Honors)</strong><br />
               2021 - 2025<br />
               Current GPA: 3.87<br />
-              Chancellor’s Honors List (2022, 2023)
+              Chancellor’s Honors List (2022, 2023, 2024)
             </p>
             <hr />
           </Col>
